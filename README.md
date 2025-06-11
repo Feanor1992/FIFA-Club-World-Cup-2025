@@ -2,7 +2,7 @@
 
 This project is a data analysis and machine learning tool designed to evaluate and predict the performance of the football teams participating in the FIFA Club World Cup 2025. By leveraging predicted team performance data and integrating with generative artificial intelligence, the project offers in-depth analysis and creates fantasy lineups.
 
-## Key Objectives and Functionality:##
+## Key Objectives and Functionality: ##
 
 1. **Team Performance Analysis:**
 - ***Core Metrics:*** The project utilizes static data, including Opta Ratings and special predicted performance scores for three matchdays (`MD1`, `MD2`, `MD3`), as well as their total (`Sum`).
